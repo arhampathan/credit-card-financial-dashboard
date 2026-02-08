@@ -55,6 +55,22 @@ Key KPIs:
 
 ---
 
+## 🔄 SQL Data Processing & Updates
+
+To simulate a real business environment, data was not only imported but also **modified and updated using SQL**.
+
+This includes:
+- Cleaning and transforming raw data  
+- Updating customer and transaction records  
+- Managing data consistency before loading into Power BI  
+
+This step demonstrates practical skills in:
+✔ Database handling  
+✔ Data preprocessing  
+✔ Financial data management 
+
+---
+
 ## 🎯 Project Objective
 
 The goal of this dashboard is to:
